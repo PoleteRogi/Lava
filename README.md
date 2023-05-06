@@ -1,2 +1,2 @@
-# Lava
+# 🔥Lava
 HTML on steroids
